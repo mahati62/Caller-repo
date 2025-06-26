@@ -8,4 +8,4 @@ permissions:
   
 jobs:
   call-issue-blocker:
-    uses: workflow/.github/workflows/issue-blocker-reusuable.yml
+    uses: mahati62/Workflow/.github/workflows/issue-blocker-reusuable.yml@main
